@@ -13,6 +13,7 @@ Centola, Becker, Zhang, Aysola, Guilbeault, and Khoong. 2023. Experimental Evide
 <b>subject_id</b>: unique ID refering to each clinician participant (this is constant across trials) <br>
 <b>net</b>: this is the experimental condition (network or control) <br>
 <b>vignette</b>: this refers to the specific clinical vignette evaluated by the group<br>
+<b>vignette_sex</b>: the sex of the patient shown in the vignette (male or female)<br>
 <b>response 1(2,3)</b>: the clinician's diagnostic assessment at round 1(2,3) <br>
 <b>discrete_response_1(2,3)</b>: the clinician's treatment recommendation at round 1(2,3)<br>
 <b>truth</b>: the correct diagnostic assessment for each vignette<br>
